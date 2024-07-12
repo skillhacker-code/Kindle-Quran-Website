@@ -4,22 +4,6 @@ So I decided to create a Quran Ebook for Kindle using different Quran Api’s an
 
 This Quran Ebook for kindle have two major feature
 
-Ayah Translation Feature
-There is Quran word by word meaning which can help you understand Quranic words .
-The Quran for Kindle use Uthmani Quran Script
-You can go directly download files from the github and start using this quran (it’s Free):
-
-This Quran for Kindle is specifically made for Kindle but you can also use it in other devices (use .epub format)
-
-There are two Quran for Kindle file type .kfx and .epub . I reccomend .kfx because uthmani script of quran is only working in .kfx format and when reading choose publisher font and you will have the font just like below .
-
-This Kindle Quran has ayah translation and word by word meaning of but you can also read this Quran normally .
-Upon purchasing my Kindle paperwhite, I wanted to read the Quran on it with a native Kindle experience. Despite trying over 10 different versions, none of them met my preferences.
-
-So I decided to create a Quran Ebook for Kindle using different Quran Api’s and I have been using this for more than one year and is very happy with the experience and I also shared this on github and got one good review so I decided to share it here so that people can benefit .
-
-This Quran Ebook for kindle have two major feature
-
 1. Ayah Translation Feature
 2. There is Quran word by word meaning which can help you understand Quranic words .
 3. The Quran for Kindle use Uthmani Quran Script
